@@ -142,7 +142,7 @@ base.path=/home/me/some-place-to-download-to]]></source>
   Another example:
 </p>
 
-<source>base.path=${user.dir}/../libraries-tomcat<version-major-minor/></source>
+<source>base.path=${user·.dir}/../libraries-tomcat<version-major-minor/></source>
 
 <p>
   Users who access the Internet through a proxy must use the properties
